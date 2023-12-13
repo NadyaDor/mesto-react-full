@@ -1,0 +1,14 @@
+.enter__in-login {
+  font-weight: 400;
+  font-size: 14px;
+  height: 16.94px;
+  color: #ffffff;
+  background: none;
+  border: none;
+  padding-top: 15px;
+  cursor: pointer;
+  transition: 1s ease-in-out;
+}
+.enter__in-login:hover {
+  opacity: 0.8;
+}

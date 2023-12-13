@@ -1,0 +1,6 @@
+.header__container {
+  width: 100%;
+  display: flex;
+  flex-direction: row-reverse;
+  padding-top: 10px;
+}
