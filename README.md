@@ -82,8 +82,6 @@
 * Использование Routes и Navigate
 * Работа с токенами
 
-Код размещен в репозитории по адресу: https://github.com/NadyaDor/mesto-react-auth
-
 <h4>Код опубликован в репозитории - <a href="https://github.com/NadyaDor/mesto-react-auth" title="Ссылка на Github">ссылка</a>.</h4>
 
 <h4>Приложение опубликавано на Vercel-pages - <a href="https://mesto-react-auth-brown.vercel.app/" title="Ссылка на Vercel Pages">ссылка</a>.</h4>
